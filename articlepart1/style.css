@@ -1,0 +1,35 @@
+h1{
+  color: white;
+  background-color: red;
+  font-size: 50px;
+  padding: 20px;
+  font-family:serif;
+}
+
+
+p{
+  font-size: 23px
+}
+
+
+h2{
+  color: white;
+  background-color: orangered;
+  font-size: 50px;
+  padding: 20px;
+  font-family:serif;
+}
+
+
+h3{
+  color: white;
+  background-color: orange;
+  font-size: 50px;
+  padding: 20px;
+  font-family:serif;
+}
+
+
+ul{
+  font-size: 23px
+}

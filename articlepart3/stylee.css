@@ -1,0 +1,40 @@
+body{
+  background: red;
+}
+
+
+h1{
+  color: red;
+  background-color: white;
+  font-size: 50px;
+  padding: 20px;
+  font-family:serif;
+}
+
+
+p{
+  font-size: 23px
+}
+
+
+h2{
+  color: red;
+  background-color: white;
+  font-size: 50px;
+  padding: 20px;
+  font-family:serif;
+}
+
+
+h3{
+  color: red;
+  background-color: white;
+  font-size: 50px;
+  padding: 20px;
+  font-family:serif;
+}
+
+
+ul{
+  font-size: 23px
+}
